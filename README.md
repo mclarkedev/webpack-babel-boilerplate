@@ -14,7 +14,7 @@ Install dependencies by using <code>npm install</code>
 <code>npm run dev-server</code> is to be run whenever in development mode.
 
 
-<code>npm run build</code> is to be run in in production mode.
+<code>npm run build</code> is to be run when in production mode.
 
 <h3>Webpack / JS Modules </h3>
 
